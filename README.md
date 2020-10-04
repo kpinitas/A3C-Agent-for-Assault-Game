@@ -20,7 +20,7 @@ Project is created with:
 ## Setup
 To run this project:
 * clone this repository
-* run code\a3c.py script
+* run a3c.py script
 
 ## Results
 ![Results](./images/mp.jpg?raw=true "Results")
