@@ -3,6 +3,8 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Results](#results)
+
 
 ## General info
 This project is a semester project for the course Autonomous Agents at TUC.
