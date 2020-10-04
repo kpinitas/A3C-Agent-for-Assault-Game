@@ -20,5 +20,5 @@ Project is created with:
 ## Setup
 To run this project:
 * clone this repository
-* run a3c.py script
+* run code\a3c.py script
 
