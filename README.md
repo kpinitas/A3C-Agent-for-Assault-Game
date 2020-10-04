@@ -22,3 +22,7 @@ To run this project:
 * clone this repository
 * run code\a3c.py script
 
+## Results
+![Results](./images/mp.jpg?raw=true "Results")
+![Results](./images/de.jpg?raw=true "Results")
+![Results](./images/mr.jpg?raw=true "Results")
